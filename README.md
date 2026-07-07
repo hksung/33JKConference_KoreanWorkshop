@@ -8,5 +8,4 @@ This repository contains materials for the hands-on section of the workshop. Par
 
 ## Workshop Materials
 
-* **Sample text and CoNLL-U files:** [sample_raw.txt](sample%20files/sample_raw.txt), [sample_reference.conllu](sample%20files/sample_reference.conllu) (Reference: [UD-Korean-GSD-dev](https://github.com/UniversalDependencies/UD_Korean-GSD/blob/master/ko_gsd-ud-dev.conllu))
-* **Google Colab notebook:** [Open in Google Colab]
+*Will be added*
