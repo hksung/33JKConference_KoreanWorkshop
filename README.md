@@ -9,3 +9,5 @@ This repository contains materials for the hands-on section of the workshop. Par
 ## Workshop Materials
 
 *Will be added*
+- Samples 1, 2: "Which do you prefer: competition or cooperation?"
+- Samples 3, 4: “Should children start learning a foreign language at an early age?”
