@@ -11,3 +11,4 @@ This repository contains materials for the hands-on section of the workshop. Par
 *Will be added*
 - Samples 1, 2: "Which do you prefer: competition or cooperation?"
 - Samples 3, 4: “Should children start learning a foreign language at an early age?”
+- Samples 5, 6: "What do you think about students’ use of generative AI?"
