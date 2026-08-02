@@ -8,8 +8,8 @@ This repository contains materials for the hands-on section of the workshop (Ses
 
 ## Workshop Materials
 
-- Slides: <a href="doc/JK_conference_260806.pdf" download>Download the slides</a>
-- Colab notebook: <a href="https://colab.research.google.com/drive/1RJdvKyT_bJPM6M0EFZ2acxUe-feehdCn?usp=sharing" target="_blank" rel="noopener noreferrer">Open in Colab</a>
+- Slides: [Download the slides](https://github.com/hksung/33JKConference_KoreanWorkshop/blob/main/doc/JK_conference_260806.pdf?raw=1)
+- Colab notebook: <a href="https://colab.research.google.com/drive/1RJdvKyT_bJPM6M0EFZ2acxUe-feehdCn?usp=sharing" target="_blank">Open in Colab</a>
 - Text samples:
   - Samples 1, 2: "Which do you prefer: competition or cooperation?"
   - Samples 3, 4: “Should children start learning a foreign language at an early age?”
