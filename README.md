@@ -1,15 +1,15 @@
 # 33JKConference_KoreanWorkshop
 
 * **Title:** Corpus Linguistics for Korean with Universal Dependencies: Concepts and Hands-On Practice
-* **Date/Time:** Thursday, August 6, 9:30 a.m.–12:00 p.m.
+* **Date/Time:** Thursday, August 6, 9:30 am–12:00 pm
 * **Location:** LCLB G20, University of Illinois Urbana-Champaign
 
 This repository contains materials for the hands-on section of the workshop (Session 2, led by Hakyung Sung). Participants will use Universal Dependencies–based annotation to analyze Korean texts, calculate linguistic feature frequencies, and explore recurring morphosyntactic patterns through concordance analysis.
 
 ## Workshop Materials
 
-- Slides: <a href="doc/JK_conference_260806.pdf" download>Download</a>
-- Colab notebook: https://colab.research.google.com/drive/1RJdvKyT_bJPM6M0EFZ2acxUe-feehdCn?usp=sharing
+- Slides: <a href="doc/JK_conference_260806.pdf" download>Download the slides</a>
+- Colab notebook: <a href="https://colab.research.google.com/drive/1RJdvKyT_bJPM6M0EFZ2acxUe-feehdCn?usp=sharing" target="_blank" rel="noopener noreferrer">Open in Colab</a>
 - Text samples:
   - Samples 1, 2: "Which do you prefer: competition or cooperation?"
   - Samples 3, 4: “Should children start learning a foreign language at an early age?”
