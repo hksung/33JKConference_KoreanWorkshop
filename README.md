@@ -4,11 +4,13 @@
 * **Date/Time:** Thursday, August 6, 9:30 am–12:00 pm
 * **Location:** LCLB G20, University of Illinois Urbana-Champaign
 
-This repository contains materials for the hands-on section of the workshop (Session 2, led by Hakyung Sung). Participants will use Universal Dependencies–based annotation to analyze Korean texts, calculate linguistic feature frequencies, and explore recurring morphosyntactic patterns through concordance analysis.
+This repository contains materials for the hands-on section of the workshop. Participants will use Universal Dependencies–based annotation to analyze Korean texts, calculate linguistic feature frequencies, and explore recurring morphosyntactic patterns through concordance analysis.
 
 ## Workshop Materials
 
-- Slides: [Download the slides](https://github.com/hksung/33JKConference_KoreanWorkshop/raw/refs/heads/main/doc/JK_conference_260806.pdf)
+- Slides:
+  - [Download slides for the first session](https://github.com/hksung/33JKConference_KoreanWorkshop/raw/refs/heads/main/doc/workshop_material_GS.pdf) - led by Gyu-Ho Shin
+  - [Download slides for the second session](https://github.com/hksung/33JKConference_KoreanWorkshop/raw/refs/heads/main/doc/JK_conference_260806.pdf) - led by Hakyung Sung
 - Colab notebook: <a href="https://colab.research.google.com/drive/1RJdvKyT_bJPM6M0EFZ2acxUe-feehdCn?usp=sharing" target="_blank">Open in Colab</a>
 - Text samples:
   - Samples 1, 2: "Which do you prefer: competition or cooperation?"
